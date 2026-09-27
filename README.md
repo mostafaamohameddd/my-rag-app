@@ -16,10 +16,10 @@ Before setting up the project, make sure you have the following prerequisites in
 Follow these steps to create and activate your isolated Conda environment:
 
 ### 1. Create a Conda Environment
-Open your terminal and run the following command to create a new environment named `mini-rag-app` with Python 3.8:
+Open your terminal and run the following command to create a new environment named `mini-rag-app` with Python 3.10:
 
 ```bash
-conda create -n mini-rag-app python=3.8 -y
+conda create -n mini-rag-app python=3.10 -y
 ```
 
 ### 2. Activate the Environment
